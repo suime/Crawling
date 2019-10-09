@@ -1,11 +1,11 @@
 Package: Crawling
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Ask and go to the Blue!
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Dae-Hyeon 
+Maintainer: qkqxk600@gmail.com  
+Description: 크롤링하는 
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+License: NONE
 Encoding: UTF-8
 LazyData: true
