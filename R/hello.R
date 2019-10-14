@@ -17,3 +17,7 @@ hello <- function() {
   print("Hello, world!")
 }
 
+testf = function(x){
+  print(x*2)
+}
+
